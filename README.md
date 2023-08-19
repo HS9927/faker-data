@@ -1,6 +1,6 @@
 # Hi, I'm Heng Sok - [HS9927](https://github.com/HS9927) 👋 
 
-# Faker Data
+## Faker Data Desc
 Faker Data used for get Fake Data and Insert to Database.
 
 
